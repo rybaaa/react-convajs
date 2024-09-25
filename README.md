@@ -42,14 +42,19 @@ To set up and run the project locally:
 
 2. Install the dependencies:
 
+   ```javascript
    npm install
+
+   ```
 
 3. Run the development server:
 
+   ```javascript
    npm run dev
+   ```
 
 ## Usage
 
 - To add shapes to the canvas, select a shape from the dropdown menu on the toolbar.
-  - After adding a shape, you can interact with it by switching to the cursor mode and dragging the shape across the canvas.
-  - You can also pan across the infinite canvas by holding and dragging with the mouse on empty canvas space.
+- After adding a shape, you can interact with it by switching to the cursor mode and dragging the shape across the canvas.
+- You can also pan across the infinite canvas by holding and dragging with the mouse on empty canvas space.
